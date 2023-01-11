@@ -122,6 +122,16 @@ path = "./src/2_1/1_partial_sum/main.rs"
 
 
 [[bin]]
+name = "2_lake_counting"
+path = "./src/2_1/2_lake_counting/main.rs"
+
+
+[[bin]]
+name = "3_maze"
+path = "./src/2_1/3_maze/main.rs"
+
+
+[[bin]]
 name = "1_triangle"
 path = "./src/1_6/1_triangle/main.rs"
 
