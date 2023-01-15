@@ -132,6 +132,21 @@ path = "./src/2_1/3_maze/main.rs"
 
 
 [[bin]]
+name = "1_coin"
+path = "./src/2_2/1_coin/main.rs"
+
+
+[[bin]]
+name = "2_interval_scheduling"
+path = "./src/2_2/2_interval_scheduling/main.rs"
+
+
+[[bin]]
+name = "3_best_cow_line"
+path = "./src/2_2/3_best_cow_line/main.rs"
+
+
+[[bin]]
 name = "1_triangle"
 path = "./src/1_6/1_triangle/main.rs"
 
