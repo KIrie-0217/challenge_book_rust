@@ -147,6 +147,16 @@ path = "./src/2_2/3_best_cow_line/main.rs"
 
 
 [[bin]]
+name = "5_fence_repair"
+path = "./src/2_2/5_fence_repair/main.rs"
+
+
+[[bin]]
+name = "4_sarumans_army"
+path = "./src/2_2/4_sarumans_army/main.rs"
+
+
+[[bin]]
 name = "1_triangle"
 path = "./src/1_6/1_triangle/main.rs"
 
